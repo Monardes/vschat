@@ -279,6 +279,7 @@ pnpm prod
 
 PS: 不进行打包，直接在服务器上运行 `pnpm start` 也可
 
+
 #### 前端网页
 
 1、修改根目录下 `.env` 文件中的 `VITE_GLOB_API_URL` 为你的实际后端接口地址
